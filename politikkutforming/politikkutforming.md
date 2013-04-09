@@ -30,8 +30,9 @@ I de fleste partier i dag utformes politikk av en komite. Programmene beskriver 
 ### Ny prossess
 Partiprogrammet utformes på samme måte som et åpent kildekode-projekt i et versjonskontrollsystem En komite utnevnt av landsstyret har skriverettigheter til en koordinert utgave. I dette systemet ligger siste vedtatte utgave fra forrige landsmøte, samt en arbeidsutgave som skal presenteres på neste landsmøte. Komiteen har ansvaret for heleten til programmet og tar i mot forslag fra andre medlemmer av partiet. Dersom noen medlemmer er uenige med programkomiteen kan de koordinere sin egen programversjon. To uker før landsmøtet samler styret for partiet inn programforslag fra programkomiteen og evt. andre komiteer. Derretter kan medlemmer sende inn endringsforslag til programforslagene. Landsmøtet stemmer så på hvilket program de vil legge til grunn. Så gjennomføres det en åpen debatt over samtlige av forslagene. Deretter voterer landsmøte over alle endrignsforslag til programmet, og evt. ønskede endringsforslag til andre programmer som fremdeles er relevante. 
 
-For å gjøre politikken vår mer etteret
-Alle prosessene våre vil være beskrevet på en standardisert måte:
+< trenger litt mer tekst her >
+
+For å gjøre politikken vår mer etterettelig skal alle prosessene våre vil være beskrevet på en standardisert måte:
 
 1. Formål: Hva ønsker vi å oppnå ved å endre slik det er i dag.
 2. Bakgrunn: Beskrive og analysere nåværende prosess der det finnes. Finne formålet, svakheter og styrker ved den prosessen.
@@ -39,7 +40,13 @@ Alle prosessene våre vil være beskrevet på en standardisert måte:
 4. Beskrive suksessoppnåelse vha konkrete objektivt kvantifiserbare mål / ytelse og raportere resultater.
 5. Beskrive kontinuelig forbedring av prosessen.
 
-Kommentar: Vi trenger satsvitere og jurister (i tillegg til realfagsteknologer) til å være med på denne prosessen. 
+Dersom vi vil programfeste noe før vi har gjennomført en slik prosess kan vi programfeste problembeskrivelsen 
+og at vi ønsker å se etter en bedre løsning på problemet. For eksempel:
+- Piratparitet synes det er problematisk at EU har så stor innflytelse på Norges lover uten at norge har formell 
+  inflytelse på EUs politiske prosesser og vil se på andre tilknytningsformer til EU enn EØS-avtalen. 
+
+
+< Kommentar: Vi trenger satsvitere og jurister (i tillegg til realfagsteknologer) til å være med på denne prosessen. >
 
 #Prosesser
 
