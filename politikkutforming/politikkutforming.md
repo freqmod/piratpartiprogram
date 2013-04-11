@@ -1,5 +1,7 @@
 #Utforming av politikk
 
+< Kommentar: Vi trenger fler innspill / deltakere med satsviter- og juristbakgrunn (i tillegg til realfagsteknologer). >
+
 ## Metaprosess
 Piratpartiet er et parti som vil gå til valg på prosess og ikke på saker. Vi vil beskrive hvordan vi vil utforme politikk og hvordan vi vil sørge for at politikken kan etterprøves og forbedres etterhvert. Vi vil også vise til enkelte områder hvor vi har startet på projektene og kan vise til resultatene prossessen har kommet fram til til nå. Vi ønsker å dra inn alle fagområder i utvikling av politikk, men vil legge vekt på at prosessene skal være logisk oppbygde og etteretlige. 
 
@@ -28,25 +30,45 @@ I de fleste partier i dag utformes politikk av en komite. Programmene beskriver 
 * Vanskelig for grasrota å få oppmerksomhet om saker som ikke foreslås av programkomiteen
 
 ### Ny prossess
-Partiprogrammet utformes på samme måte som et åpent kildekode-projekt i et versjonskontrollsystem En komite utnevnt av landsstyret har skriverettigheter til en koordinert utgave. I dette systemet ligger siste vedtatte utgave fra forrige landsmøte, samt en arbeidsutgave som skal presenteres på neste landsmøte. Komiteen har ansvaret for heleten til programmet og tar i mot forslag fra andre medlemmer av partiet. Dersom noen medlemmer er uenige med programkomiteen kan de koordinere sin egen programversjon. To uker før landsmøtet samler styret for partiet inn programforslag fra programkomiteen og evt. andre komiteer. Derretter kan medlemmer sende inn endringsforslag til programforslagene. Landsmøtet stemmer så på hvilket program de vil legge til grunn. Så gjennomføres det en åpen debatt over samtlige av forslagene. Deretter voterer landsmøte over alle endrignsforslag til programmet, og evt. ønskede endringsforslag til andre programmer som fremdeles er relevante. 
+#### Praktisk om programutforming
+Piratpartiet vil ha en åpen etteretlig prossess der alle kan bidra. Vi vil være åpne for å debatere meninger utenfor kjerneprofilen til partiet, men være klar på at det ikke er partiets politikk før det er vedtatt på et landsmøte.
 
-< trenger litt mer tekst her >
+For å løse det vil vi at partiprogrammet skal utformes på samme måte som et åpent kildekode-projekt, i et versjonskontrollsystem. En komite utnevnt av landsstyret har skriverettigheter til en koordinert utgave. I dette systemet ligger siste vedtatte utgave fra forrige landsmøte, samt en arbeidsutgave som skal presenteres på neste landsmøte. Komiteen har ansvaret for heleten til programmet og tar i mot forslag fra andre medlemmer av partiet. Dersom noen medlemmer er uenige med programkomiteen kan de koordinere sin egen programversjon. 
+
+To uker før landsmøtet samler styret for partiet inn programforslag fra programkomiteen og evt. andre komiteer. Derretter kan medlemmer sende inn endringsforslag til programforslagene. Landsmøtet stemmer så på hvilket program de vil legge til grunn. Så gjennomføres det en åpen debatt over samtlige av forslagene. Deretter voterer landsmøte over alle endrignsforslag til programmet, og evt. ønskede endringsforslag til andre programmer som fremdeles er relevante. 
+
+#### Innhold i programmet
+Piratpartiet er opptatt av at innholdet i partiprogrammet er ordentlig fundamentert og argumentert for. Det er fullt mulig å lage kortversjoner av programmet der kun konklusjonene står, men for hver konklusjon skal det være lenket til det fullstendige programmet der en full analyse som beskrevet under er presentert. 
+
+Ved å kreve dette håper vi å unngå lite gjennomtenkte løsninger som får uheldige bivirkninger, er et tilbakesteg i forhold til eksisterende løsniger, fører til mer byråkrati eller kun er funderte på følelser og politisk ideologi.
 
 For å gjøre politikken vår mer etterettelig skal alle prosessene våre vil være beskrevet på en standardisert måte:
 
 1. Formål: Hva ønsker vi å oppnå ved å endre slik det er i dag.
 2. Bakgrunn: Beskrive og analysere nåværende prosess der det finnes. Finne formålet, svakheter og styrker ved den prosessen.
-3. Beskrive ny prosess / lovtekst.
+3. Beskrive ny prosess / lovtekst, hvorfor den er bedre enn den gamle og verdien av evt. økt byråkrati.
 4. Beskrive suksessoppnåelse vha konkrete objektivt kvantifiserbare mål / ytelse og raportere resultater.
 5. Beskrive kontinuelig forbedring av prosessen.
 
 Dersom vi vil programfeste noe før vi har gjennomført en slik prosess kan vi programfeste problembeskrivelsen 
 og at vi ønsker å se etter en bedre løsning på problemet. For eksempel:
+
 - Piratparitet synes det er problematisk at EU har så stor innflytelse på Norges lover uten at norge har formell 
   inflytelse på EUs politiske prosesser og vil se på andre tilknytningsformer til EU enn EØS-avtalen. 
 
+#### Sukksessmål
 
-< Kommentar: Vi trenger satsvitere og jurister (i tillegg til realfagsteknologer) til å være med på denne prosessen. >
+* Mer åpen programbeskrivelsesprosess
+    * At minst 10 personer har vært med å gi innspill til programmet før det er fryst til landsmøtet
+    * Et tilstrekkelig mangfoll av saker, at seriøse innlegg ikke begrenses av for høye krav til beskrivelse.
+    * At antallet negative medieoppslag ang. interne prosessaker ikke truer partiets troverdighet; at det er færre enn 5 slike oppslag før valget i 2013.
+    * At der er mulig å finne ut hvem som har skrevet forslag, når de ble foreslått og å finne gamle forkastede forslag.
+* At politikken er seriøs, rasjonell og virker troverdig og gjennomførbar
+    * At alle saker følger malen/krav til prossess
+    * At man faktisk går igjennom suksessmålene etter det har gått en rimlig tid (evt. tiden spesifisert i forslaget) etter det er gjennomført og gjør forbedringer.
+
+#### Kontinuelig forbedring
+Etter valget er gjennomført bør man gå igjennom prosessen for å lage program, se om man har oppnådd suksessmålene, og se om verktøyene og rutinene legger begrensninger på målene og bør erstattes eller forbedres.
 
 #Prosesser
 
