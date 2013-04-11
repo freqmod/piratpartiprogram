@@ -123,3 +123,15 @@ I løpet av hver stortingsperiode blir så hva politikeren stemte for i alle all
 ### Kontinuelig forbedring
 Tre stortingsperioder etter innføring av proxydemokrati bør man vurdere i hvilken grad suksessmålene er oppnåd, om formålet er nådd, og om det er funnet noen måter å utnytte systemet på.
 
+
+## Lovutforming
+### Formål
+
+* Gjøre utforming av lover mer demokratisk og transparent
+* Redusere muligheten for uformell påvirkning av lover
+* Redusere mengden sovende lover
+* Lage lover til beste til samfundet som helhet.
+* Sikkre at lovene har forsåelse og respekt i majoriteten av befolkningen.
+
+### Bakgrunn
+Dagens lovarbeid (prosess for å lage lover) er beskrevet på http://www.stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Lovarbeidet/
