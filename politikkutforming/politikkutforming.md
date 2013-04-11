@@ -72,7 +72,7 @@ Etter valget er gjennomført bør man gå igjennom prosessen for å lage program
 
 #Prosesser
 
-##Proxydemokrati
+##Stedfortredende demokrati
 ### Formål
 
 * Øke de relle valgmulighetene for velgerene
@@ -123,7 +123,6 @@ I løpet av hver stortingsperiode blir så hva politikeren stemte for i alle all
 ### Kontinuelig forbedring
 Tre stortingsperioder etter innføring av proxydemokrati bør man vurdere i hvilken grad suksessmålene er oppnåd, om formålet er nådd, og om det er funnet noen måter å utnytte systemet på.
 
-
 ## Lovutforming
 ### Formål
 
@@ -134,4 +133,6 @@ Tre stortingsperioder etter innføring av proxydemokrati bør man vurdere i hvil
 * Sikkre at lovene har forsåelse og respekt i majoriteten av befolkningen.
 
 ### Bakgrunn
-Dagens lovarbeid (prosess for å lage lover) er beskrevet på http://www.stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Lovarbeidet/
+Lovarbeid (prosess for å lage lover) slik det gjøres i dag  er beskrevet på http://www.stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Lovarbeidet/
+
+< Beskrive styrker og ulemper ved loverbeidet slik det gjøres i dag >
