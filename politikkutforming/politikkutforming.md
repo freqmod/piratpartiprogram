@@ -126,6 +126,12 @@ I løpet av hver stortingsperiode blir så hva politikeren stemte for i alle all
 Tre stortingsperioder etter innføring av proxydemokrati bør man vurdere i hvilken grad suksessmålene er oppnåd, om formålet er nådd, og om det er funnet noen måter å utnytte systemet på.
 
 ## Lovutforming
+
+< Når det gjelder lovutforming er det et stort og komplekst område, 
+Jeg har ikke helt oversikt over fordeler og ulemper med prosessen i dag, 
+så derfor tror jeg dette avsnittet trenger en del diskusjon og forbedring 
+etter jeg er feridg med å lage utkast til det.>
+
 ### Formål
 
 * Gjøre utforming av lover mer demokratisk og transparent
