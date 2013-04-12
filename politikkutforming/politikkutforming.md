@@ -56,7 +56,7 @@ og at vi ønsker å se etter en bedre løsning på problemet. For eksempel:
 - Piratparitet synes det er problematisk at EU har så stor innflytelse på Norges lover uten at norge har formell 
   inflytelse på EUs politiske prosesser og vil se på andre tilknytningsformer til EU enn EØS-avtalen. 
 
-#### Sukksessmål
+#### Suksessmål
 
 * Mer åpen programbeskrivelsesprosess
     * At minst 10 personer har vært med å gi innspill til programmet før det er fryst til landsmøtet
