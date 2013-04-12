@@ -72,7 +72,7 @@ Etter valget er gjennomført bør man gå igjennom prosessen for å lage program
 
 #Prosesser
 
-##Stedfortredende demokrati
+##Stedfortrederdemokrati
 ### Formål
 
 * Øke de relle valgmulighetene for velgerene
@@ -110,6 +110,8 @@ I løpet av hver stortingsperiode blir så hva politikeren stemte for i alle all
 
 [Figur vedtak.pdf]
 
+< skrive litt om hvor dette fører til mer byråkrati, og hvorfor det er verdt det >
+
 ### Suksessmål
 
 * Flere valgmuligheter for velgerene:
@@ -136,3 +138,35 @@ Tre stortingsperioder etter innføring av proxydemokrati bør man vurdere i hvil
 Lovarbeid (prosess for å lage lover) slik det gjøres i dag  er beskrevet på http://www.stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Lovarbeidet/
 
 < Beskrive styrker og ulemper ved loverbeidet slik det gjøres i dag >
+### Ny prosess
+Vi ønsker at lovene i størst mulig grad skal skrives av interessegrupper for de områdene lovende berører. 
+
+Den følgende prossessen antar at alle stortingrepresentantene representerer ulike meninger i folket og at det ikke er et klart forhåndsbestemt flertall. Dersom man har en lojal flertallsregjering vil prosessen under kun føre til åpenhet om hvilke forslag man forkaster og evt. begrunnelser for at de blir forkastet.
+
+1. Initiativ: Flytte initiativet til lovene fra regjerningen til
+    * Stortinget ( evt på vegne av interesseorganisasjonene dersom vi har stedfortrederdemokrati).
+    * Folkeinitiativ (med tilstrekkelig antall stemmer til at det ikke skjer mer enn 4-5 ganger i året til vanlig).
+2. Utarbeiding av lovforslag
+    1. Utlysning og beskrivelse av området og formål. Henvisning til gjenldene lover som evt. skal reformeres.
+    2. Alle interesseorganisasjoner og andre interresenter kommer med sine synspunkter og ønsker for loven.  (2 uker)
+    3. Regjeringen kategoriserer og tilpasser hvert synspunkt i innspillene og lager en oversikt over hvilke innspill som er motsetninger. Dersom det ikke kommer nok synspunkter kan regjeringen komme med egene punkter.
+    3. Frivillig sessjon for stortingspolitikerene der de kan rangere synspunktene; i hvilke de vil ha mest, er likgyldige til, og ikke vil ha.
+    4. Regjeringen sammenstiller og lager et lovforslag som passer best mulig med ønskene fra stortingspolitikerene.
+    5. Lovforslaget sendes ut på høring (2 uker)
+    6. Regjeringen prøver å innarbeide alle relevante høringssvar; og vektlegger svar som samsvarer med ønskene fra stortingsrepresentantene. Alle høringssvar skal kommenteres; enten hvorfor de innarbeides, eller hvorfor de ikke tas til følge.
+    7. Lovforslaget sendes til stortinget for behandling
+3. Behandling av lovforslag
+    Her synes jeg dagens prosess ( som beskrevet i lenken over) virker fornuftig. Jeg vil gjerne ha innspill på fordeler og ulemper ved den prosessen i praksis.
+
+Få inn:
+
+* Changelog
+* Behovsprøving
+* Form: Alle lover må ha:
+    * Formålsparagraf
+    * Metadata (skal ikke brukes under dømming i forhold til loven):
+        * Sukksessmål
+        * Beskrivelse av strategi for kontinuelig forbedring og oppdatering
+        * Utredelse om den påvirker mengden byråkrati; mer eller mindre; og retferdiggjøring av det.
+        * Changelog og kommentarer ved utforming av loven
+
