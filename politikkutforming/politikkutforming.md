@@ -70,6 +70,36 @@ og at vi ønsker å se etter en bedre løsning på problemet. For eksempel:
 #### Kontinuelig forbedring
 Etter valget er gjennomført bør man gå igjennom prosessen for å lage program, se om man har oppnådd suksessmålene, og se om verktøyene og rutinene legger begrensninger på målene og bør erstattes eller forbedres.
 
+## Landsmøte
+###Bakgrunn 
+Formatet for landsmøtene i andre politiske partier er utformet etter en lang politisk prosess hvor man forsøker å finne måter å la alle som vil det komme til ordet, og unngå at noen personer, eller noen saker monopoliserer debatten.
+
+Andre partiets prosesser er laget i en tid der elektronisk kommuniksasjon og koordinering ikke var så velutviklet som den er nå. Likevel kan elektroniske systemer bryte sammen, derfor er det viktig å ha rutiner for å håndtere det.
+
+### Formål
+* Sørge for at ingen saker eller personer monopoliserer debatten.
+* Muliggjøre innlegg via IP/Videotelefoni
+* Muliggjøre fjernavtemning
+* Effektivisere avstemning v.h.a. elektroniske hjelpemidler
+* Strukturere og organisere forslag så de er lett tilgjengelige
+* Gjøre den eksisterende talelista; og hvilke saker hver taler vil kommentere oversiktig for alle møtedeltakere.
+* Være etteretlig i forhold til hva endringsforslagene innebærer og nøyaktig hva som skal endres
+* Sikkre at alle deltagere som er registrert på møtet får stemme på alle saker. 
+
+### Løsning
+Vi ønsker å bruke et elektronisk system som holder styr på flest mulig detaljer ved møtet.
+Krav:
+- Alle deltagerene skal kunne nå systemet v.h.a. en enhet som støtter kablet nettverk og en nettleser.
+- Alle avstemninger har kun tre alternativer: For, mot og avholdene. 
+- Alle deltagere som skal stemme må være registrert på forhånd, både som medlem i partiet, og at medlemmet spesifikt deltar på møtet. Dersom en deltager avstår fra å stemme skal dette logges og anmerkes i referatet for møtet.
+- Alle detaljer som ikke eksplisitt er nevnt at det skal taes vare på skal slettes etter programmet og møtereferatet er vedtatt. 
+- Møtedeltakere kan registrere sine meninger om sakene fra sakslista legges fram (2 uker) før møtet, og så endre dem helt fram til avstemningen. Dersom det oppstår tekniske problemer for enkeltdeltakere kan tidligere registrerte meninger bli brukt.
+< lage litt mer kjøtt på beinet her >
+
+### Suksessmål
+...
+
+
 #Prosesser
 
 ##Stedfortrederdemokrati
@@ -169,4 +199,5 @@ Få inn:
         * Beskrivelse av strategi for kontinuelig forbedring og oppdatering
         * Utredelse om den påvirker mengden byråkrati; mer eller mindre; og retferdiggjøring av det.
         * Changelog og kommentarer ved utforming av loven
+
 
