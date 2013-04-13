@@ -1,16 +1,16 @@
 #Utforming av politikk
 
-< Kommentar: Vi trenger fler innspill / deltakere med satsviter- og juristbakgrunn (i tillegg til realfagsteknologer). >
+< Kommentar: Vi trenger flere innspill / deltakere med satsviter- og juristbakgrunn (i tillegg til realfagsteknologer). >
 
 ## Metaprosess
-Piratpartiet er et parti som vil gå til valg på prosess og ikke på saker. Vi vil beskrive hvordan vi vil utforme politikk og hvordan vi vil sørge for at politikken kan etterprøves og forbedres etterhvert. Vi vil også vise til enkelte områder hvor vi har startet på prosjektene og kan vise til resultatene prossessen har kommet fram til til nå. Vi ønsker å dra inn alle fagområder i utvikling av politikk, men vil legge vekt på at prosessene skal være logisk oppbygde og etterettelige.
+Piratpartiet er et parti som vil gå til valg på prosess og ikke på saker. Vi vil beskrive hvordan vi vil utforme politikk og hvordan vi vil sørge for at politikken kan etterprøves og forbedres etterhvert. Vi vil også vise til enkelte områder hvor vi har startet på prosjektene og kan vise til resultatene prosessen har kommet fram til til nå. Vi ønsker å dra inn alle fagområder i utvikling av politikk, men vil legge vekt på at prosessene skal være logisk oppbygde og etterettelige.
 
 ###Formål
 * Gjøre utformingen av politikk mer etterprøvbar og oversiktlig.
 * Hindre utdatert politikk som er i utakt med samfunnet.
 * Effektivisere byråkratiet ved å jevnlig undersøke følgende i samarbeid med de som jobber i det:
     * Hva avdelingen skal utrette
-    * Om det relevant
+    * Om det er relevant
     * Om det faktisk oppfyller sin funksjon
     * Om det finnes mer effektive måter å gjøre det på. (pga teknologi, endrede normer osv.)
 * Sørge for at alle interesserte deler av samfunnet får sagt sin mening og at den taes hensyn til i prosessen.
@@ -65,7 +65,7 @@ og at vi ønsker å se etter en bedre løsning på problemet. For eksempel:
     * At der er mulig å finne ut hvem som har skrevet forslag, når de ble foreslått og å finne gamle forkastede forslag.
 * At politikken er seriøs, rasjonell og virker troverdig og gjennomførbar
     * At alle saker følger malen/krav til prosess
-    * At man faktisk går igjennom suksessmålene etter det har gått en rimlig tid (evt. tiden spesifisert i forslaget) etter det er gjennomført og gjør forbedringer.
+    * At man faktisk går igjennom suksessmålene etter det har gått en rimelig tid (evt. tiden spesifisert i forslaget) etter det er gjennomført og gjør forbedringer.
 
 #### Kontinuelig forbedring
 Etter valget er gjennomført bør man gå igjennom prosessen for å lage program, se om man har oppnådd suksessmålene, og se om verktøyene og rutinene legger begrensninger på målene og bør erstattes eller forbedres.
@@ -88,7 +88,7 @@ Vi ønsker å justere dagens demokrati så det blir mer tro mot den originale in
 
 I dagens politiske system stemmer man på et parti uansett om man er fullstendig enig i alle sakene eller ikke. Man må rett og slett velge det partiet man er mest enig med, og så akseptere at ikke de ikke mener det samme som deg på alle saker. Dette gjør at de sakene det er flertall for i folket, men går på tvers av aksen mellom rødt og blått ikke blir gjennomført.
 
-I de siste to regjeringsperiodene har vi hatt en flertallsregjering. I den situasjonen har tidligere protestpartier fått litt makt, men relativt lite i forhold til den dominerende regjeringsaktøren. Dermed vil folk spørre seg om de ikke ikke heller burde stemme på de dominerende partiene, ettersom en stemme til de små partiene ikke utgjør noen forskjell, selv om partiene kommer i vippeposisjon til en regjering. Dette har ført til en selvforsterkende effekt og hvis denne effekten fortsetter vil vi ende med kun Ap, Høyre og FrP som reelle alternativer.
+I de siste to regjeringsperiodene har vi hatt en flertallsregjering. I den situasjonen har tidligere protestpartier fått litt makt, men relativt lite i forhold til den dominerende regjeringsaktøren. Dermed vil folk spørre seg om de ikke heller burde stemme på de dominerende partiene, ettersom en stemme til de små partiene ikke utgjør noen forskjell, selv om partiene kommer i vippeposisjon til en regjering. Dette har ført til en selvforsterkende effekt og hvis denne effekten fortsetter vil vi ende med kun Ap, Høyre og FrP som reelle alternativer.
 
 [Figur meny.pdf]
 
@@ -98,7 +98,7 @@ Man kan se på dagens politiske situasjon i Norge som en situasjon med tre menye
 
 [Figur maktfordeling.pdf]
 
-Piratpartiet tror mangelen på valgfrihet er en konsekvens av parlamentarismen og dagens partibaserte system, som gir for lite politisk valgfrihet. For å øke den politiske valgfriheten vil vi gjenninnføre Montesquieus maktfordelingsprinsipp, å skille utøvende, lovgivende og dømmende makt. Likevel ønsker vi ikke å fjerne maktbalansen mellom storting og regjering. Vi vil sette lobbyisme inn i system, ved å innføre en institusjon som kun har ansvar for å utforme politikk. Dermed vil vi redusere stortingsrepresentantenes posisjon til å koordinere politikken utformet av forskjellige interessehavere, inngå kompromisser samt løse konflikter og utfordringer mellom de forskjellige alternativene.
+Piratpartiet tror mangelen på valgfrihet er en konsekvens av parlamentarismen og dagens partibaserte system, som gir for lite politisk valgfrihet. For å øke den politiske valgfriheten vil vi gjeninnføre Montesquieus maktfordelingsprinsipp, å skille utøvende, lovgivende og dømmende makt. Likevel ønsker vi ikke å fjerne maktbalansen mellom storting og regjering. Vi vil sette lobbyisme inn i system, ved å innføre en institusjon som kun har ansvar for å utforme politikk. Dermed vil vi redusere stortingsrepresentantenes posisjon til å koordinere politikken utformet av forskjellige interessehavere, inngå kompromisser samt løse konflikter og utfordringer mellom de forskjellige alternativene.
 
 [Figur stemmeseddel.pdf]
 
@@ -106,7 +106,7 @@ Når våre stortingsrepresentanter stiller til valg velger de en politisk profil
 
 Ved valg kan velgerne så lage en ordnet liste med de kandidatene de er mest enige i. De kan også finjustere på vektingen mellom programmene de bryr seg om dersom de ikke er helt enige med politikeren. Vi vil også lage nettportaler der velgerne kan vekte de sakene de bryr seg om for å finne hvilke programmer som passer best, samt hvilke kandidater som støtter de programmene. Velgerne kan så tilpasse verdiene til kandidatene og se om det finnes andre kandidater som dekker meningene deres bedre. Vi vil at selve avstemningene skal foregå på papir. Vi er skeptiske til elektronisk stemmegivning og vil ikke gjennomføre det uten å ha gått igjennom en prosess der man har sett på fordeler og ulemper med det og konkludert med at elektronisk stemming er bedre enn papirbasert stemming (med elektronisk telling).
 
-I løpet av hver stortingsperiode blir så hva politikeren stemte for i alle alle avstemninger politikeren er med i registrert. Politikeren får mulighet til å kommentere valgene den gjør. Dette er særlig viktig dersom politikeren stemmer mot det den gikk til valg på (f.eks som del av et kompromiss).
+I løpet av hver stortingsperiode blir så hva politikeren stemte for i alle avstemninger politikeren er med i registrert. Politikeren får mulighet til å kommentere valgene den gjør. Dette er særlig viktig dersom politikeren stemmer mot det den gikk til valg på (f.eks. som del av et kompromiss).
 
 [Figur vedtak.pdf]
 
@@ -130,36 +130,36 @@ Tre stortingsperioder etter innføring av proxydemokrati bør man vurdere i hvil
 < Når det gjelder lovutforming er det et stort og komplekst område,
 Jeg har ikke helt oversikt over fordeler og ulemper med prosessen i dag,
 så derfor tror jeg dette avsnittet trenger en del diskusjon og forbedring
-etter jeg er feridg med å lage utkast til det.>
+etter jeg er ferdig med å lage utkast til det.>
 
 ### Formål
 
 * Gjøre utforming av lover mer demokratisk og transparent
 * Redusere muligheten for uformell påvirkning av lover
 * Redusere mengden sovende lover
-* Lage lover til beste til samfundet som helhet.
-* Sikkre at lovene har forsåelse og respekt i majoriteten av befolkningen.
+* Lage lover til beste til samfunnet som helhet.
+* Sikre at lovene har forsåelse og respekt i majoriteten av befolkningen.
 
 ### Bakgrunn
-Lovarbeid (prosess for å lage lover) slik det gjøres i dag  er beskrevet på http://www.stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Lovarbeidet/
+Lovarbeid (prosess for å lage lover) slik det gjøres i dag er beskrevet på http://www.stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Lovarbeidet/
 
 < Beskrive styrker og ulemper ved loverbeidet slik det gjøres i dag >
 ### Ny prosess
 Vi ønsker at lovene i størst mulig grad skal skrives av interessegrupper for de områdene lovende berører.
 
-Den følgende prossessen antar at alle stortingrepresentantene representerer ulike meninger i folket og at det ikke er et klart forhåndsbestemt flertall. Dersom man har en lojal flertallsregjering vil prosessen under kun føre til åpenhet om hvilke forslag man forkaster og evt. begrunnelser for at de blir forkastet.
+Den følgende prosessen antar at alle stortingrepresentantene representerer ulike meninger i folket og at det ikke er et klart forhåndsbestemt flertall. Dersom man har en lojal flertallsregjering vil prosessen under kun føre til åpenhet om hvilke forslag man forkaster og evt. begrunnelser for at de blir forkastet.
 
-1. Initiativ: Flytte initiativet til lovene fra regjerningen til
-    * Stortinget ( evt på vegne av interesseorganisasjonene dersom vi har stedfortrederdemokrati).
+1. Initiativ: Flytte initiativet til lovene fra Regjeringen til
+    * Stortinget (evt. på vegne av interesseorganisasjonene dersom vi har stedfortrederdemokrati).
     * Folkeinitiativ (med tilstrekkelig antall stemmer til at det ikke skjer mer enn 4-5 ganger i året til vanlig).
 2. Utarbeiding av lovforslag
-    1. Utlysning og beskrivelse av området og formål. Henvisning til gjenldene lover som evt. skal reformeres.
+    1. Utlysning og beskrivelse av området og formål. Henvisning til gjeldende lover som evt. skal reformeres.
     2. Alle interesseorganisasjoner og andre interessenter kommer med sine synspunkter og ønsker for loven. (2 uker)
-    3. Regjeringen kategoriserer og tilpasser hvert synspunkt i innspillene og lager en oversikt over hvilke innspill som er motsetninger. Dersom det ikke kommer nok synspunkter kan regjeringen komme med egene punkter.
-    3. Frivillig sessjon for stortingspolitikerene der de kan rangere synspunktene; i hvilke de vil ha mest, er likgyldige til, og ikke vil ha.
-    4. Regjeringen sammenstiller og lager et lovforslag som passer best mulig med ønskene fra stortingspolitikerene.
+    3. Regjeringen kategoriserer og tilpasser hvert synspunkt i innspillene og lager en oversikt over hvilke innspill som er motsetninger. Dersom det ikke kommer nok synspunkter kan regjeringen komme med egne punkter.
+    3. Frivillig sessjon for stortingspolitikerene der de kan rangere synspunktene; i hvilke de vil ha mest, er likegyldige til, og ikke vil ha.
+    4. Regjeringen sammenstiller og lager et lovforslag som passer best mulig med ønskene fra stortingspolitikerne.
     5. Lovforslaget sendes ut på høring (2 uker)
-    6. Regjeringen prøver å innarbeide alle relevante høringssvar; og vektlegger svar som samsvarer med ønskene fra stortingsrepresentantene. Alle høringssvar skal kommenteres; enten hvorfor de innarbeides, eller hvorfor de ikke tas til følge.
+    6. Regjeringen prøver å innarbeide alle relevante høringssvar og vektlegger svar som samsvarer med ønskene fra stortingsrepresentantene. Alle høringssvar skal kommenteres; enten hvorfor de innarbeides, eller hvorfor de ikke tas til følge.
     7. Lovforslaget sendes til Stortinget for behandling
 3. Behandling av lovforslag
     Her synes jeg dagens prosess (som beskrevet i lenken over) virker fornuftig. Jeg vil gjerne ha innspill på fordeler og ulemper ved den prosessen i praksis.
